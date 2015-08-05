@@ -1,0 +1,7 @@
+content DirectForge chrome/content/
+skin DirectForge classic/1.0 chrome/skin/
+
+overlay chrome://browser/content/browser.xul chrome://DirectForge/content/DirectForge_Overlay.xul
+
+#Current Support Locales For DirectForge
+locale DirectForge en-US chrome/locale/en-US/

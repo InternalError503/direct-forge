@@ -1,0 +1,18 @@
+#toolbar_toggleDirectForge {
+    list-style-image: url("icon16.png");
+}
+#toolbar_toggleDirectForge[cui-areatype="menu-panel"] {
+    list-style-image: url("icon32.png")!important;
+}
+#toolbar_toggleDirectForge:not([cui-areatype="toolbar"])> .toolbarbutton-icon {
+    list-style-image: url("icon32.png")!important;
+}
+#toolbar_toggleDirectForge[checked="true"] {
+    list-style-image: url("icon16-check.png");
+}
+#toolbar_toggleDirectForge[cui-areatype="menu-panel"][checked="true"] {
+    list-style-image: url("icon32-check.png")!important;
+}
+#toolbar_toggleDirectForge:not([cui-areatype="toolbar"])[checked="true"]> .toolbarbutton-icon {
+    list-style-image: url("icon32-check.png")!important;
+}
