@@ -1,6 +1,8 @@
 Direct Forge
 ========
 
+Download this addon from [addons.mozilla.org] (https://addons.mozilla.org/en-US/firefox/addon/directforge)
+
 Source code repository for direct forge
 
 Source code released under [MPL 2.0] (https://www.mozilla.org/MPL/2.0/)
